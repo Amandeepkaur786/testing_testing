@@ -5,3 +5,4 @@ just add your name below (in your forked repository), then push the change back 
 
 Takis Zourntos
 Amandeep kaur
+Amandeep Kaur
